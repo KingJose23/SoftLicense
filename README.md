@@ -1,0 +1,2 @@
+# SoftLicense
+License
